@@ -1,5 +1,3 @@
-# genai-data-hybrid-system
-GenAI system that analyzes structured data using LLM
 # GenAI + Data Hybrid System
 
 This project demonstrates how AI can analyze structured data and generate insights.
